@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.StyledTextComponent{
+
+  font-family: "Inter", sans-serif;
+  padding-left: .5rem;
+ background-color: #369;
+ color: #fff;
+ 
+ }

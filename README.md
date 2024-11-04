@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# EJERCICIOS REACT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Rama Master: Ejercicio 1 y Ejercicio 2 - JSX
+## Rama Ejercicio-Componentes-sencillos-React: Ejercicio Componentes Sencillos React
 
 In the project directory, you can run:
 
